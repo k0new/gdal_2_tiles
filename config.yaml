@@ -1,0 +1,12 @@
+path: "./data"
+makeFigures: false
+tiler:
+  outputDir: "./result"
+  projectionType:
+    - merc
+#    - npole
+  zoom:
+    - 0
+    - 1
+    - 2
+loggerLevel: "debug"
